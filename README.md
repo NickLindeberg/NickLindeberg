@@ -1,13 +1,16 @@
-### Hi there 👋
+# Hey, I'm Nick 👋
 
-Thank you for visiting my GitHub Profile.
+**Ruby Engineer** · Colorado roots, Arizona life
 
-I am a Ruby Engineer with roots in Colorado, currently based in Mesa, Arizona.
+---
 
-In 2019, I successfully completed my education at Turing School of Software and Design, marking the beginning of my professional journey in software development.
+### A bit about me
+- 🎓 Turing School of Software and Design, class of 2019
+- 💎 Building things with Ruby professionally ever since
+- 🎸 Music nerd, art enjoyer, husband to an actual artist
 
-Beyond my technical expertise, I have a profound interest in music and art, complemented by my marriage to a talented artist.
+---
 
-Several of my public projects on this platform originated from my learning process. Please consider this context if you happen to encounter less polished or aesthetically pleasing code—learning curves can sometimes result in unconventional solutions!
-
-The contents of this message may or may not have undergone revision by ChatGPT 3.5.
+### Heads up
+A few repos here are learning artifacts from my early days.
+Rough edges included, no refunds.
