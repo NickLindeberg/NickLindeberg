@@ -7,7 +7,7 @@
 ### A bit about me
 - 🎓 Turing School of Software and Design, class of 2019
 - 💎 Building things with Ruby professionally ever since
-- 🎸 Music nerd, art enjoyer, husband to an actual artist
+- 🎸 Music nerd, part-time worship leader, art enjoyer, husband to an actual artist
 
 ---
 
