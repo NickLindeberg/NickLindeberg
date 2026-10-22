@@ -1,16 +1,15 @@
 # Hey, I'm Nick 👋
 
-**Ruby Engineer** · Colorado roots, Arizona life
+Software engineer at [Soraban](https://soraban.com) · Ruby at heart · Colorado roots, Arizona life
 
----
+## A bit about me
 
-### A bit about me
-- 🎓 Turing School of Software and Design, class of 2019
-- 💎 Building things with Ruby professionally ever since
+- 💎 Seven years of building with Ruby, and still having fun with it
+- 🧾 Currently at Soraban, helping make bookkeeping and taxes less painful with software
+- 🎓 Turing School of Software & Design, class of 2019
+- 🤖 These days I pair with AI tools daily, and I like figuring out where they help and where they don't
 - 🎸 Music nerd, part-time worship leader, art enjoyer, husband to an actual artist
 
----
+## Heads up
 
-### Heads up
-A few repos here are learning artifacts from my early days.
-Rough edges included, no refunds.
+A few repos here are learning artifacts from my early days. Rough edges included, no refunds.
